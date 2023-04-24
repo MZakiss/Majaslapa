@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(255, 225, 91);
+    }
+    h1 {
+    color: rgb(0, 4, 255);
+    margin-left: 20px;
+    }
+    h2 {font-family: Helvetica; font-size: large;
+    }
+    .roza {
+        color:pink;
+    }
+table, tr, td{
+  border:1px solid;
+  border-collapse:collapse;
+}
+
+      
+      .blakus{
+        font-family: 'Delicious Handrawn', cursive;
+        float: left;
+    } 
